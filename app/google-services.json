@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857071883863",
+    "project_id": "audio-b34ea",
+    "storage_bucket": "audio-b34ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857071883863:android:70232ca66fb5cc07097512",
+        "android_client_info": {
+          "package_name": "digi.coders.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857071883863-6k1ets8juo70sgcphbg1j7u60fvsv4ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvMIYDhPS2aQ1P6B_1twgxEJ6FGlbvtB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857071883863-6k1ets8juo70sgcphbg1j7u60fvsv4ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
